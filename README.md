@@ -1,6 +1,6 @@
 # stoch-analysis
 
-Analysis for stock using a stochastic strategy
+Analysis for stock using stochastic rsi strategy
 
 ## The [base strategy](./jupyter/Stoch-Analysis-01.ipynb):
 
